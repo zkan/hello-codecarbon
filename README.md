@@ -1,0 +1,2 @@
+# hello-codecarbon
+Hello, CodeCarbon!
